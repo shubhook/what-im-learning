@@ -8,6 +8,8 @@ SQL & NoSQL DBs: https://www.integrate.io/blog/the-sql-vs-nosql-difference/
 
 Figma Design: https://www.figma.com/resource-library/getting-started-in-design/#why-learn-how-to-design  
 
+Claude Code: https://www.anthropic.com/claude-code  
+
 
 
 
