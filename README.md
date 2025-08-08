@@ -10,6 +10,8 @@ Figma Design: https://www.figma.com/resource-library/getting-started-in-design/#
 
 Claude Code: https://www.anthropic.com/claude-code  
 
+Gemini API QuickStart: https://ai.google.dev/gemini-api/docs  
+
 
 
 
