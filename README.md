@@ -12,6 +12,7 @@ Claude Code: https://www.anthropic.com/claude-code
 
 Gemini API QuickStart: https://ai.google.dev/gemini-api/docs  
 
+Reverse Engineering Shazam: https://grok.com/share/bGVnYWN5LWNvcHk%3D_98323c5c-0685-48c0-b53f-e6558f4de4ce   
 
 
 
