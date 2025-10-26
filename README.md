@@ -14,5 +14,7 @@ Gemini API QuickStart: https://ai.google.dev/gemini-api/docs
 
 Reverse Engineering Shazam: https://grok.com/share/bGVnYWN5LWNvcHk%3D_98323c5c-0685-48c0-b53f-e6558f4de4ce   
 
+Intersection Union in Typescript: https://www.reddit.com/r/typescript/comments/1e61bla/demystifying_intersection_and_union_types_in/   
+
 
 
